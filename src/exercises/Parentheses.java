@@ -5,8 +5,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
 
-import algorithm.Stack;
-
+import algorithms.Stack;
 /**
  * 练习题1.3.4
  * 判断文本中的括号是否完整
