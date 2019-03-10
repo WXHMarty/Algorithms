@@ -25,7 +25,7 @@ public class Quick extends Example {
 		// 将左半部分排序
 		sort(a, lo, j-1);
 		
-		// 将体验版部分排序
+		// 将右半部分排序
 		sort(a, j+1, hi);
 	}
 	
